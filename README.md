@@ -21,20 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const yashwant = {
-  name:       "Yashwant Verma",
-  education:  "B.Tech Mechanical Engineering — 3rd Year @ MMMUT Gorakhpur",
-  role:       "Full Stack Developer & UI/UX Designer",
-  languages:  ["HTML", "CSS", "Java", "JavaScript", "Python"],
-  frontend:   ["React.js", "Tailwind CSS", "Figma → Code"],
-  backend:    ["Node.js", "Express.js", "FastAPI"],
-  design:     ["Figma", "Prototyping", "Design Systems"],
-  email:      "yashwantverma3123@gmail.com",
-  currently:  "Building pixel-perfect apps while acing engineering 🔧💻",
-  funFact:    "Mechanical engineer by degree, web developer by passion 🎨→💻"
-};
-```
+
 
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 
@@ -107,21 +94,12 @@ const yashwant = {
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantverma022&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="48%" />
 
-<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantverma022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="40%" />
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashwantverma022&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
----
 
 ## 🎨 Design Philosophy
 
