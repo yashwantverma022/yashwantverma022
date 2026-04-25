@@ -21,22 +21,10 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const yashwant = {
-  name:       "Yashwant Verma",
-  education:  "B.Tech Mechanical Engineering — 3rd Year @ MMMUT Gorakhpur",
-  role:       "Full Stack Developer & UI/UX Designer",
-  languages:  ["HTML", "CSS", "Java", "JavaScript", "Python"],
-  frontend:   ["React.js", "Tailwind CSS", "Figma → Code"],
-  backend:    ["Node.js", "Express.js", "FastAPI"],
-  design:     ["Figma", "Prototyping", "Design Systems"],
-  email:      "yashwantverma3123@gmail.com",
-  currently:  "Building pixel-perfect apps while acing engineering 🔧💻",
-  funFact:    "Mechanical engineer by degree, web developer by passion 🎨→💻"
-};
+
 ```
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+
 
 - 🎓 Pursuing **B.Tech in Mechanical Engineering** (3rd Year) at **MMMUT Gorakhpur**
 - 🔭 I build **end-to-end web applications** — from wireframes to deployment
@@ -157,7 +145,7 @@ const yashwant = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantverma022&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -179,8 +167,7 @@ const yashwant = {
 
 <div align="center">
 
-### 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 <br/>
 
