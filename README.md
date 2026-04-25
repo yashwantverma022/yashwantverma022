@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Yashwant%20Verma%20%F0%9F%91%8B&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20UI%2FUX%20Designer%20%7C%20MMMUT%20Gorakhpur&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I%27m%20Yashwant%20Verma%20%F0%9F%91%8B&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MMMUT%20Gorakhpur&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -179,7 +179,8 @@ const yashwant = {
 
 <div align="center">
 
-
+### 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
 
@@ -192,7 +193,7 @@ const yashwant = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
 
