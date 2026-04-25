@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20a%20Full%20Stack%20Dev%20%26%20Designer&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20beautiful%20things%20for%20the%20web%20🚀&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Yashwant%20Verma%20%F0%9F%91%8B&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20UI%2FUX%20Designer%20%7C%20MMMUT%20Gorakhpur&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -22,27 +22,48 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const developer = {
+const yashwant = {
+  name:       "Yashwant Verma",
+  education:  "B.Tech Mechanical Engineering — 3rd Year @ MMMUT Gorakhpur",
   role:       "Full Stack Developer & UI/UX Designer",
   languages:  ["HTML", "CSS", "Java", "JavaScript", "Python"],
   frontend:   ["React.js", "Tailwind CSS", "Figma → Code"],
   backend:    ["Node.js", "Express.js", "FastAPI"],
   design:     ["Figma", "Prototyping", "Design Systems"],
-  currently:  "Building pixel-perfect, performant web apps",
-  funFact:    "I design in Figma first, then make it real 🎨→💻"
+  email:      "yashwantverma3123@gmail.com",
+  currently:  "Building pixel-perfect apps while acing engineering 🔧💻",
+  funFact:    "Mechanical engineer by degree, web developer by passion 🎨→💻"
 };
 ```
 
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 
+- 🎓 Pursuing **B.Tech in Mechanical Engineering** (3rd Year) at **MMMUT Gorakhpur**
 - 🔭 I build **end-to-end web applications** — from wireframes to deployment
 - 🎨 I design in **Figma** before writing a single line of code
-- ⚡ I love clean architecture, fast APIs, and smooth UIs
+- ⚡ Mechanical engineer by degree, **full stack dev & designer by passion**
 - 🌱 Always learning — currently diving deeper into **system design** & **cloud**
 - 💬 Ask me about **React**, **Node.js**, **FastAPI**, or **UI/UX**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **yashwantverma3123@gmail.com**
 
 <br clear="right"/>
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/MMMUT-Gorakhpur-58A6FF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+    </td>
+    <td>
+      <strong>Madan Mohan Malaviya University of Technology, Gorakhpur</strong><br/>
+      📘 B.Tech — Mechanical Engineering &nbsp;|&nbsp; 3rd Year (Ongoing)<br/>
+      🌐 Bridging the gap between engineering & technology through code & design
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -150,7 +171,7 @@ const developer = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/YOUR_PROFILE)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/YOUR_PROFILE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwantverma3123@gmail.com)
 
 </div>
 
