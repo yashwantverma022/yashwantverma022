@@ -37,22 +37,6 @@
 
 ---
 
-## 🎓 Education
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/MMMUT-Gorakhpur-58A6FF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-    </td>
-    <td>
-      <strong>Madan Mohan Malaviya University of Technology, Gorakhpur</strong><br/>
-      📘 B.Tech — Mechanical Engineering &nbsp;|&nbsp; 3rd Year (Ongoing)<br/>
-      🌐 Bridging the gap between engineering & technology through code & design
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -83,6 +67,23 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/MMMUT-Gorakhpur-58A6FF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+    </td>
+    <td>
+      <strong>Madan Mohan Malaviya University of Technology, Gorakhpur</strong><br/>
+      📘 B.Tech — Mechanical Engineering &nbsp;|&nbsp; 3rd Year (Ongoing)<br/>
+      🌐 Bridging the gap between engineering & technology through code & design
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -160,16 +161,6 @@
 ### 💡 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br/>
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashwantverma022/yashwantverma022/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashwantverma022/yashwantverma022/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yashwantverma022/yashwantverma022/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
 
